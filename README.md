@@ -4,14 +4,15 @@
 
 [view](https://femi-ologunwa.github.io/5-filterable-list-nav/)
 
-![](./idea.png);
+![](./filtered-list.png);
 
 
 
-### Others...
+### Implementation
 
--  fetching data from a file
--  implement toggle functionality depending on a state value.
-   -implement the use of react icons
--  using spread operator to pass properties of an object (from data file) as props to a component
+-  Fetching data items from a file
+-  Rendering list of data items as components
+-  Created a function to filter items in a list based on category
+-  Created a function to get unique values from a list of values
+-  Dynamically generate a set of buttons based on data items categories
 
